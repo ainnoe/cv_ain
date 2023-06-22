@@ -1,0 +1,22 @@
+body {
+  height: 200vh;
+  background: linear-gradient(to right, white 50%, rgb(0, 0, 56) 50%);
+}
+
+.gambar-tampilan1 {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+
+}
+
+.tampilan1 {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.tampilan2 {
+  margin-top: 20px;
+  margin-left: 700px;
+  color: aliceblue;
+}
